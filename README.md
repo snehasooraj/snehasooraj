@@ -31,11 +31,62 @@ Full-Stack Developer | AI/ML Enthusiast | B.Tech CSE Student
 </p>
 
 ---
-
 ## 🛠️ Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,mysql,html,css,git,docker,firebase" />
+
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" />
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=javascript" />
+</a>
+
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" />
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=express" />
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" />
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" />
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" />
+</a>
+
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=firebase" />
+</a>
+
 </p>
 
 ---
