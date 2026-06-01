@@ -1,67 +1,41 @@
 <h1 align="center">Hi 👋, I'm Sneha Sooraj</h1>
-<h3 align="center">Full-Stack Developer | AI/ML Enthusiast | B.Tech CSE Student</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=snehasooraj&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<h3 align="center">
+Full-Stack Developer | AI/ML Enthusiast | B.Tech CSE Student
+</h3>
 
 ---
 
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech Computer Science Engineering Student
-- 💼 Full-Stack Developer
-- 🌱 Currently learning AI/ML, System Design, and Advanced Web Development
+- 💻 Full-Stack Developer
+- 🤖 Interested in AI/ML and Emerging Technologies
+- 🌱 Currently learning System Design and Advanced Web Development
 - 🚀 Passionate about building real-world software solutions
 - 💬 Ask me about Java, Python, JavaScript, MERN Stack, SvelteKit, and Flutter
-- 📫 Reach me at: **itzmesnehasooraj@gmail.com**
+- 📫 Email: **itzmesnehasooraj@gmail.com**
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/snehasooraj" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="GitHub" height="30" width="40" />
+<a href="https://github.com/snehasooraj" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/sneha-sooraj" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+<a href="https://linkedin.com/in/sneha-sooraj" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
 
 <p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/>
-
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,mysql,html,css,git,docker,firebase" />
 </p>
 
 ---
@@ -69,53 +43,31 @@
 ## 🚀 Featured Projects
 
 ### 🤖 Spot and Treat Autonomous Swarm
-- Python, ROS2, Gazebo, YOLOv8
-- Autonomous weed detection and pesticide spraying simulation.
+Autonomous weed detection and pesticide spraying simulation using ROS2, Gazebo and YOLOv8.
 
 ### 🏦 Live Banking App
-- SvelteKit, Capacitor, Supabase
-- Financial management platform with loan portfolio management.
+Financial management platform with real-time loan portfolio management.
 
 ### 🖨️ Data Residue
-- Genesis 2.0 Hackathon Project
-- Secure document-sharing system for print shops.
+Secure document-sharing and printing platform built for Genesis 2.0 Hackathon.
 
 ### 🎙️ Native Language Identification
-- Python, TensorFlow, HuBERT
-- Detects native language background from English speech patterns.
+AI-powered system that predicts a speaker's native language from English speech patterns.
 
 ### 🎒 Lost & Found Portal
-- Node.js, Express.js, MySQL
-- College platform for reporting and recovering lost items.
+College platform for reporting and recovering lost items efficiently.
 
 ### 📚 Personal Task Manager
-- React, Node.js, MongoDB
-- Gamified productivity tracker with focus monitoring.
+Gamified productivity application with focus tracking and virtual pet features.
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Hackathon Participant and Project Builder
-- 👩‍💻 Developed multiple Full-Stack Applications
-- 🤖 Worked on AI/ML and Computer Vision Projects
-- 🚀 Experienced in Rapid Prototyping and Problem Solving
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=snehasooraj&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=snehasooraj&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehasooraj&layout=compact&theme=tokyonight" />
-</p>
+- 🥇 Hackathon Project Builder
+- 💻 Developed Multiple Full-Stack Applications
+- 🤖 Built AI/ML and Computer Vision Projects
+- 🚀 Strong Interest in Problem Solving and Innovation
 
 ---
 
@@ -123,9 +75,9 @@
 
 - Full-Stack Development
 - Artificial Intelligence & Machine Learning
-- Problem Solving & DSA
-- Building Scalable Web Applications
+- Data Structures & Algorithms
+- Scalable Web Applications
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
